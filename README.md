@@ -1,5 +1,4 @@
-#recipes
-This is recipes project
+This is my recipes project!
 
 As HTML and CSS are essential languages for web development, it only makes sense to put some of that knowledge to use so I don't forget it. 
 
